@@ -12,5 +12,4 @@ https://www.youtube.com/watch?v=LeJycUjXMA8
 
 ```
 python CircleDetection.py
-
 ```
